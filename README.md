@@ -1,8 +1,7 @@
 # Credit-Risk-Analysis
-This project is an Exploratory Data Analysis (EDA) on two bank datasets, "current application" and "previous application," to gain insights into credit risk factors in lending. The objective of this project is to analyze the data and identify key factors that contribute to credit risk using advanced statistical methods and visualizations.
 
 # Introduction
-Credit risk analysis is an essential component of lending decisions in the banking industry. Understanding the factors that contribute to credit risk is crucial for managing loan portfolios and ensuring the financial health of lending institutions. The purpose of this project is to explore two bank datasets and identify key credit risk factors.
+Credit risk analysis is an essential component of lending decisions in the banking industry. Understanding the factors that contribute to credit risk is crucial for managing loan portfolios and ensuring the financial health of lending institutions. The objective of this project is to analyze the data and identify key factors that contribute to credit risk using advanced statistical methods and visualizations.
 
 # Datasets
 The two datasets used in this project are:
