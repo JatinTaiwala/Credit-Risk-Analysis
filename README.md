@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis
+# Helped an education company improve their lead conversion rate
 
 # Introduction
 Credit risk analysis is an essential component of lending decisions in the banking industry. Understanding the factors that contribute to credit risk is crucial for managing loan portfolios and ensuring the financial health of lending institutions. The objective of this project is to analyze the data and identify key factors that contribute to credit risk using advanced statistical methods and visualizations.
